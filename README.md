@@ -5,7 +5,7 @@
 
 <!-- Dynamic Animated Typing Subtitle -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=23&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=%E2%96%B6+FULL-STACK+%26+MOBILE+SYSTEMS+ARCHITECT;%E2%96%B6+BUILDING+AI+FLEET+TELEMATICS+%26+REAL-TIME+MOBILITY;%E2%96%B6+ENGINEERING+ENTERPRISE+ERPs+%26+DISTRIBUTED+BACKENDS;%E2%96%B6+CORE%3A+FLUTTER+%E2%80%A2+REACT+%E2%80%A2+NODE+%E2%80%A2+KOTLIN+%E2%80%A2+PYTHON;%E2%96%B6+MCA+DISTINCTION+%5B83.87%25%5D+%E2%80%A2+NATIONAL+ATHLETE" alt="Typing Motion Graphic" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=%E2%96%B6+FULL-STACK+%26+MOBILE+SYSTEMS+ARCHITECT;%E2%96%B6+OPTERA+FLEET+MANAGEMENT+%26+BUSBUDDY+AI+TRACKER;%E2%96%B6+BUILDERA+%E2%80%94+AUTOMATED+CONSTRUCTION+MANAGEMENT+%26+BILLING;%E2%96%B6+CORE%3A+FLUTTER+%E2%80%A2+REACT+%E2%80%A2+NODE+%E2%80%A2+KOTLIN+%E2%80%A2+PYTHON;%E2%96%B6+MCA+DISTINCTION+%5B83.87%25%5D+%E2%80%A2+NATIONAL+ATHLETE" alt="Typing Motion Graphic" />
 </a>
 
 <br/>
@@ -39,12 +39,12 @@
 
 I’m a software engineer and systems architect driven by first-principles thinking: breaking complex, fragmented real-world operations down to their core mechanics, and re-engineering them into fast, resilient, and beautifully designed digital ecosystems.
 
-From real-time GPS telemetry pipelines managing bus fleets on the move to 15-module enterprise construction ERPs with automated WhatsApp reconciliation, I treat code like high-precision machinery — engineered for speed, zero downtime, and seamless user interaction.
+From real-time telematics in **Optera — Fleet Management System** and live telemetry in **BusBuddy — AI Smart School Bus Tracker**, to autonomous operations in **Buildera — AI-Powered Automated Construction Management & Billing**, I treat code like high-precision machinery — engineered for speed, zero downtime, and seamless user interaction.
 
 - 🎓 **Education:** Master of Computer Applications (**MCA**) from JG University (*First Class with Distinction — **83.87%***).
 - 💼 **Professional Experience:** 
   - **Android Developer Intern | Full Stack & Enterprise Engineering** at **VAS Digitek Pvt. Ltd.** (Sept 2025 – August 2026).
-  - Architected **Optera** — an AI-Powered Fleet Management ecosystem spanning Flutter mobile apps (Driver & Parent apps with live GPS tracking), React.js administrative monitoring portals, and Node.js backend microservices deployed on Linux/Ubuntu.
+  - Engineered **Optera — Fleet Management System**, building enterprise fleet solutions across Flutter mobile applications (driver operations, attendance, maintenance) and React.js web monitoring platforms with Node.js backend microservices deployed on Linux/Ubuntu.
 - 🏅 **Athletic Background:** Selected as an **All India University National Softball Player (2024)** — instilling relentless discipline, split-second problem solving, and composure under pressure.
 
 ---
@@ -152,41 +152,56 @@ From real-time GPS telemetry pipelines managing bus fleets on the move to 15-mod
   <tbody>
     <tr>
       <td>
-        <b>OPTERA & BUSBUDDY</b><br/>
-        <sub>AI-Powered Fleet Telematics & School Transit Suite</sub>
+        <b>OPTERA</b><br/>
+        <sub>Fleet Management System</sub>
       </td>
       <td>
-        • <b>Driver Suite:</b> Vehicle assignment, route navigation, attendance tracking, and live dispatch logging.<br/>
-        • <b>Parent Companion:</b> Live GPS telematics, Google Maps integration, trip status, and geofencing alerts.<br/>
-        • <b>Operations Tower:</b> React.js control portal for centralized vehicle tracking and live alert telemetry.<br/>
-        • High-throughput Node.js/Express backend integrated with Supabase/MySQL and Firebase Realtime sync.
+        • <b>Driver Operations:</b> Flutter mobile app covering vehicle assignment, trip details, attendance, daily operations, and maintenance logs.<br/>
+        • <b>Administration Dashboard:</b> React.js web platform for comprehensive fleet monitoring, operational oversight, vehicle/driver management, and real-time fleet visibility.<br/>
+        • <b>Backend Microservices:</b> Node.js/Express REST APIs with JWT/OAuth 2.0 authentication, role-based authorization, validation, and database integration.<br/>
+        • Designed MySQL/Supabase databases, integrated Firebase auth and real-time services, deployed on Ubuntu Linux via PM2 and Nginx.
       </td>
       <td>
-        <code>Flutter</code><br/><code>React.js</code><br/><code>Node.js</code><br/><code>Firebase</code><br/><code>GPS / Maps</code>
+        <code>Flutter</code><br/><code>React.js</code><br/><code>Node.js</code><br/><code>Express</code><br/><code>MySQL</code><br/><code>Supabase</code><br/><code>Linux / PM2</code>
       </td>
     </tr>
     <tr>
       <td>
-        <b>BUILDTERA</b><br/>
-        <sub>Multi-Tenant Autonomous Construction ERP</sub>
+        <b>BUSBUDDY</b><br/>
+        <sub>AI Smart School Bus Tracker</sub>
       </td>
       <td>
-        • Multi-tenant enterprise core featuring <b>15+ operational modules</b> (Site Ops, HRMS, Inventory, Procurement).<br/>
-        • <b>Automated Procurement:</b> Vendor management, PO creation, approval pipelines, and OCR bill reconciliation.<br/>
-        • <b>WhatsApp Automation:</b> Integrated bots for real-time site progress alerts and one-tap PO approvals.<br/>
-        • Hardened with JWT RBAC, deployed on Ubuntu Linux using PM2 daemons and Nginx reverse proxies.
+        • <b>Driver Application:</b> Flutter application for route navigation, assigned transit routes, vehicle details, attendance, and daily trip activities.<br/>
+        • <b>Parent Companion:</b> Flutter app with live GPS school bus tracking, Google Maps API route monitoring, bus/driver information, and geofencing-based instant arrival alerts.<br/>
+        • <b>Transport Management:</b> React.js administration dashboard for fleet monitoring, driver/trip metrics, camera tracking, and operational management.<br/>
+        • Node.js/Express REST APIs with Firebase Realtime Database for zero-latency synchronization and push notifications.
       </td>
       <td>
-        <code>Angular</code><br/><code>React.js</code><br/><code>Node.js</code><br/><code>Supabase</code><br/><code>PM2 / Nginx</code>
+        <code>Flutter</code><br/><code>React.js</code><br/><code>Node.js</code><br/><code>Firebase</code><br/><code>Google Maps</code><br/><code>GPS</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>BUILDERA</b><br/>
+        <sub>AI-Powered Automated Construction Management & Billing</sub>
+      </td>
+      <td>
+        • Multi-tenant enterprise SaaS featuring <b>15+ operational modules</b> (Site Ops, HRMS, Inventory, Procurement, Finance, Billing).<br/>
+        • <b>Automated Procurement & Billing:</b> Vendor management, PO creation, approval pipelines, and OCR-based invoice processing with automated bill reconciliation.<br/>
+        • <b>WhatsApp Automation:</b> Integrated bots for real-time site status alerts, purchase order updates, and one-tap approvals.<br/>
+        • Hardened with JWT RBAC, indexed queries, lazy loading, and Ubuntu Linux production deployment via PM2 and Nginx.
+      </td>
+      <td>
+        <code>Angular</code><br/><code>React.js</code><br/><code>Node.js</code><br/><code>MySQL</code><br/><code>Supabase</code><br/><code>PM2 / Nginx</code>
       </td>
     </tr>
     <tr>
       <td>
         <b>MAXXON</b><br/>
-        <sub>B2B Corporate Procurement & Gifting Platform</sub>
+        <sub>Corporate Procurement & Gifting Platform</sub>
       </td>
       <td>
-        • Cross-platform synchronized experience across <b>React.js web</b> and <b>Flutter mobile</b>.<br/>
+        • Cross-platform synchronized experience across <b>React.js web</b> and <b>Flutter mobile</b> using shared backend services.<br/>
         • Complete commerce lifecycle: dynamic tiered pricing, catalog indexing, cart, checkout, and order fulfillment.<br/>
         • Secure Razorpay automated payment verification, role-based authorization, and indexed MySQL queries.
       </td>
@@ -200,8 +215,8 @@ From real-time GPS telemetry pipelines managing bus fleets on the move to 15-mod
         <sub>Multi-Modal Autonomous Transit Engine</sub>
       </td>
       <td>
-        • Unified reservation platform coordinating <b>Bus, Train, and Flight</b> bookings.<br/>
-        • Dynamic seat selection engine, automated PDF ticket generation with instant email confirmations.<br/>
+        • Unified reservation platform coordinating <b>Bus, Train, and Flight</b> bookings with route search and seat selection.<br/>
+        • Dynamic fare calculation, automated PDF ticket generation with instant email confirmations.<br/>
         • Optimized backend architecture via Sequelize ORM with Netlify edge frontend distribution.
       </td>
       <td>
