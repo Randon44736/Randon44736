@@ -1,36 +1,36 @@
 <div align="center">
 
-<!-- Futuristic Waving Header Motion Graphic -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020817,50:002b4d,100:00e5ff&height=170&section=header&text=Hitendrasinh%20Solanki&fontSize=34&fontColor=00e5ff&fontAlignY=36&animation=twinkling" width="100%"/>
+<!-- Monochrome Waving Header Motion Graphic -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:161b22,100:30363d&height=170&section=header&text=Hitendrasinh%20Solanki&fontSize=34&fontColor=ffffff&fontAlignY=36&animation=twinkling" width="100%"/>
 
-<!-- Dynamic Animated Typing Subtitle -->
+<!-- Dynamic Animated Monochrome Typing Subtitle -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=%E2%96%B6+FULL-STACK+%26+MOBILE+SYSTEMS+ARCHITECT;%E2%96%B6+OPTERA+FLEET+MANAGEMENT+%26+BUSBUDDY+AI+TRACKER;%E2%96%B6+BUILDERA+%E2%80%94+AUTOMATED+CONSTRUCTION+MANAGEMENT+%26+BILLING;%E2%96%B6+CORE%3A+FLUTTER+%E2%80%A2+REACT+%E2%80%A2+NODE+%E2%80%A2+KOTLIN+%E2%80%A2+PYTHON;%E2%96%B6+MCA+DISTINCTION+%5B83.87%25%5D+%E2%80%A2+NATIONAL+ATHLETE" alt="Typing Motion Graphic" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=%E2%96%B6+FULL-STACK+%26+MOBILE+SYSTEMS+ARCHITECT;%E2%96%B6+OPTERA+FLEET+MANAGEMENT+%26+BUSBUDDY+AI+TRACKER;%E2%96%B6+BUILDERA+%E2%80%94+AUTOMATED+CONSTRUCTION+MANAGEMENT+%26+BILLING;%E2%96%B6+CORE%3A+FLUTTER+%E2%80%A2+REACT+%E2%80%A2+NODE+%E2%80%A2+KOTLIN+%E2%80%A2+PYTHON;%E2%96%B6+MCA+DISTINCTION+%5B83.87%25%5D+%E2%80%A2+NATIONAL+ATHLETE" alt="Typing Motion Graphic" />
 </a>
 
 <br/>
 
-<!-- Live Status Badges -->
+<!-- Monochrome Live Status Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-100%25_OPERATIONAL-00E5FF?style=for-the-badge&logo=shield&logoColor=black" />
-  <img src="https://img.shields.io/badge/CLEARANCE-MCA_DISTINCTION_(83.87%25)-00F0FF?style=for-the-badge&logo=codeforces&logoColor=black" />
-  <img src="https://img.shields.io/badge/DISCIPLINE-NATIONAL_SOFTBALL_ATHLETE-00A6FF?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/STATUS-100%25_OPERATIONAL-000000?style=for-the-badge&logo=shield&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/CLEARANCE-MCA_DISTINCTION_(83.87%25)-000000?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/DISCIPLINE-NATIONAL_SOFTBALL_ATHLETE-000000?style=for-the-badge&logo=target&logoColor=white&labelColor=161B22" />
 </p>
 
-<!-- Holographic Uplinks -->
+<!-- Monochrome Uplinks -->
 <p align="center">
   <a href="https://hitendrasinh.infinityfreeapp.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-hitendrasinh-001F3F?style=for-the-badge&logo=googlechrome&logoColor=00E5FF&labelColor=000814" />
+    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-hitendrasinh-000000?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=161B22" />
   </a>
   <a href="mailto:hitendra1803@gmail.com">
-    <img src="https://img.shields.io/badge/SECURE_EMAIL-hitendra1803@gmail.com-001F3F?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=000814" />
+    <img src="https://img.shields.io/badge/EMAIL-hitendra1803@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B22" />
   </a>
   <a href="https://linkedin.com/in/hitendrasinh-solanki-650b11262" target="_blank">
-    <img src="https://img.shields.io/badge/NEURAL_LINK-LinkedIn-001F3F?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=000814" />
+    <img src="https://img.shields.io/badge/LINKEDIN-Hitendrasinh_Solanki-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161B22" />
   </a>
 </p>
 
-<!-- Live Animated Cyber Divider -->
+<!-- Monochrome Animated Cyber Divider -->
 <img src="./assets/divider.gif" width="100%" />
 
 </div>
@@ -76,60 +76,60 @@ From real-time telematics in **Optera — Fleet Management System** and live tel
     <tr>
       <td align="center"><b>📱 Mobile Engineering</b></td>
       <td>
-        <img src="https://img.shields.io/badge/Flutter-001F3F?style=flat-square&logo=flutter&logoColor=00E5FF" />
-        <img src="https://img.shields.io/badge/Android_SDK-001F3F?style=flat-square&logo=android&logoColor=00E5FF" />
-        <img src="https://img.shields.io/badge/Kotlin-001F3F?style=flat-square&logo=kotlin&logoColor=00E5FF" />
-        <img src="https://img.shields.io/badge/Dart-001F3F?style=flat-square&logo=dart&logoColor=00E5FF" />
-        <img src="https://img.shields.io/badge/Java-001F3F?style=flat-square&logo=openjdk&logoColor=00E5FF" />
-        <img src="https://img.shields.io/badge/MVVM_Architecture-001F3F?style=flat-square&logo=android&logoColor=00E5FF" />
-        <img src="https://img.shields.io/badge/Jetpack_Compose-001F3F?style=flat-square&logo=android&logoColor=00E5FF" />
-        <img src="https://img.shields.io/badge/Retrofit-001F3F?style=flat-square&logo=square&logoColor=00E5FF" />
+        <img src="https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Android_SDK-000000?style=flat-square&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kotlin-000000?style=flat-square&logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dart-000000?style=flat-square&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/MVVM_Architecture-000000?style=flat-square&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jetpack_Compose-000000?style=flat-square&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/Retrofit-000000?style=flat-square&logo=square&logoColor=white" />
       </td>
     </tr>
     <tr>
       <td align="center"><b>🌐 Web Frontend</b></td>
       <td>
-        <img src="https://img.shields.io/badge/React.js-001F3F?style=flat-square&logo=react&logoColor=00E5FF" />
-        <img src="https://img.shields.io/badge/Angular-001F3F?style=flat-square&logo=angular&logoColor=00E5FF" />
-        <img src="https://img.shields.io/badge/TypeScript-001F3F?style=flat-square&logo=typescript&logoColor=00E5FF" />
-        <img src="https://img.shields.io/badge/JavaScript-001F3F?style=flat-square&logo=javascript&logoColor=00E5FF" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-001F3F?style=flat-square&logo=tailwind-css&logoColor=00E5FF" />
-        <img src="https://img.shields.io/badge/Bootstrap-001F3F?style=flat-square&logo=bootstrap&logoColor=00E5FF" />
-        <img src="https://img.shields.io/badge/Chart.js-001F3F?style=flat-square&logo=chartdotjs&logoColor=00E5FF" />
+        <img src="https://img.shields.io/badge/React.js-000000?style=flat-square&logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/Angular-000000?style=flat-square&logo=angular&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bootstrap-000000?style=flat-square&logo=bootstrap&logoColor=white" />
+        <img src="https://img.shields.io/badge/Chart.js-000000?style=flat-square&logo=chartdotjs&logoColor=white" />
       </td>
     </tr>
     <tr>
       <td align="center"><b>⚙️ Backend & APIs</b></td>
       <td>
-        <img src="https://img.shields.io/badge/Node.js-001F3F?style=flat-square&logo=nodedotjs&logoColor=00E5FF" />
-        <img src="https://img.shields.io/badge/Express.js-001F3F?style=flat-square&logo=express&logoColor=00E5FF" />
-        <img src="https://img.shields.io/badge/Python-001F3F?style=flat-square&logo=python&logoColor=00E5FF" />
-        <img src="https://img.shields.io/badge/RESTful_APIs-001F3F?style=flat-square&logo=fastapi&logoColor=00E5FF" />
-        <img src="https://img.shields.io/badge/JWT_Auth-001F3F?style=flat-square&logo=jsonwebtokens&logoColor=00E5FF" />
-        <img src="https://img.shields.io/badge/OAuth_2.0-001F3F?style=flat-square&logo=auth0&logoColor=00E5FF" />
-        <img src="https://img.shields.io/badge/Razorpay_Gateway-001F3F?style=flat-square&logo=razorpay&logoColor=00E5FF" />
+        <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/RESTful_APIs-000000?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+        <img src="https://img.shields.io/badge/OAuth_2.0-000000?style=flat-square&logo=auth0&logoColor=white" />
+        <img src="https://img.shields.io/badge/Razorpay_Gateway-000000?style=flat-square&logo=razorpay&logoColor=white" />
       </td>
     </tr>
     <tr>
       <td align="center"><b>🗄️ Database & Storage</b></td>
       <td>
-        <img src="https://img.shields.io/badge/PostgreSQL-001F3F?style=flat-square&logo=postgresql&logoColor=00E5FF" />
-        <img src="https://img.shields.io/badge/Supabase-001F3F?style=flat-square&logo=supabase&logoColor=00E5FF" />
-        <img src="https://img.shields.io/badge/MySQL-001F3F?style=flat-square&logo=mysql&logoColor=00E5FF" />
-        <img src="https://img.shields.io/badge/Firebase_Realtime-001F3F?style=flat-square&logo=firebase&logoColor=00E5FF" />
-        <img src="https://img.shields.io/badge/MongoDB-001F3F?style=flat-square&logo=mongodb&logoColor=00E5FF" />
-        <img src="https://img.shields.io/badge/Sequelize_ORM-001F3F?style=flat-square&logo=sequelize&logoColor=00E5FF" />
+        <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase_Realtime-000000?style=flat-square&logo=firebase&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Sequelize_ORM-000000?style=flat-square&logo=sequelize&logoColor=white" />
       </td>
     </tr>
     <tr>
       <td align="center"><b>☁️ Cloud & Infrastructure</b></td>
       <td>
-        <img src="https://img.shields.io/badge/Linux_/_Ubuntu-001F3F?style=flat-square&logo=ubuntu&logoColor=00E5FF" />
-        <img src="https://img.shields.io/badge/Nginx_Reverse_Proxy-001F3F?style=flat-square&logo=nginx&logoColor=00E5FF" />
-        <img src="https://img.shields.io/badge/PM2_Runtime-001F3F?style=flat-square&logo=pm2&logoColor=00E5FF" />
-        <img src="https://img.shields.io/badge/Docker-001F3F?style=flat-square&logo=docker&logoColor=00E5FF" />
-        <img src="https://img.shields.io/badge/CI/CD_Pipelines-001F3F?style=flat-square&logo=githubactions&logoColor=00E5FF" />
-        <img src="https://img.shields.io/badge/Vercel_Edge-001F3F?style=flat-square&logo=vercel&logoColor=00E5FF" />
+        <img src="https://img.shields.io/badge/Linux_/_Ubuntu-000000?style=flat-square&logo=ubuntu&logoColor=white" />
+        <img src="https://img.shields.io/badge/Nginx_Reverse_Proxy-000000?style=flat-square&logo=nginx&logoColor=white" />
+        <img src="https://img.shields.io/badge/PM2_Runtime-000000?style=flat-square&logo=pm2&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/CI/CD_Pipelines-000000?style=flat-square&logo=githubactions&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel_Edge-000000?style=flat-square&logo=vercel&logoColor=white" />
       </td>
     </tr>
   </tbody>
@@ -263,18 +263,18 @@ Whether you’re architecting an ambitious enterprise product, need high-through
 <br/>
 
 <a href="https://hitendrasinh.infinityfreeapp.com" target="_blank">
-  <img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-hitendrasinh.infinityfreeapp.com-001F3F?style=for-the-badge&logo=googlechrome&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-hitendrasinh.infinityfreeapp.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=161B22" />
 </a>
 <a href="mailto:hitendra1803@gmail.com">
-  <img src="https://img.shields.io/badge/DIRECT_EMAIL-hitendra1803@gmail.com-001F3F?style=for-the-badge&logo=gmail&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/DIRECT_EMAIL-hitendra1803@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B22" />
 </a>
 <a href="https://linkedin.com/in/hitendrasinh-solanki-650b11262" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN_PROFILE-Hitendrasinh_Solanki-001F3F?style=for-the-badge&logo=linkedin&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/LINKEDIN_PROFILE-Hitendrasinh_Solanki-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161B22" />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020817,50:002b4d,100:00e5ff&height=90&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:161b22,100:30363d&height=90&section=footer" width="100%"/>
 
 <sub>Designed & Engineered with discipline by <a href="https://github.com/Randon44736">Hitendrasinh Solanki</a></sub>
 
