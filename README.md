@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/🌐_PORTFOLIO-hitendrasinh-000000?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=161B22" />
   </a>
   <a href="mailto:hitendra1803@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-hitendra1803@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B22" />
+    <img src="https://img.shields.io/badge/EMAIL-hitendra1803%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B22" />
   </a>
   <a href="https://linkedin.com/in/hitendrasinh-solanki-650b11262" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-Hitendrasinh_Solanki-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161B22" />
@@ -83,7 +83,7 @@ From real-time telematics in the **Fleet Management System** and live telemetry 
         <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white" />
         <img src="https://img.shields.io/badge/MVVM_Architecture-000000?style=flat-square&logo=android&logoColor=white" />
         <img src="https://img.shields.io/badge/Jetpack_Compose-000000?style=flat-square&logo=android&logoColor=white" />
-        <img src="https://img.shields.io/badge/Retrofit-000000?style=flat-square&logo=square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Retrofit-000000?style=flat-square&logo=android&logoColor=white" />
       </td>
     </tr>
     <tr>
@@ -113,7 +113,7 @@ From real-time telematics in the **Fleet Management System** and live telemetry 
     <tr>
       <td align="center"><b>🗄️ Database & Storage</b></td>
       <td>
-        <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square" />
         <img src="https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=white" />
         <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/Firebase_Realtime-000000?style=flat-square&logo=firebase&logoColor=white" />
@@ -266,7 +266,7 @@ Whether you’re architecting an ambitious enterprise product, need high-through
   <img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-hitendrasinh.infinityfreeapp.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=161B22" />
 </a>
 <a href="mailto:hitendra1803@gmail.com">
-  <img src="https://img.shields.io/badge/DIRECT_EMAIL-hitendra1803@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/DIRECT_EMAIL-hitendra1803%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B22" />
 </a>
 <a href="https://linkedin.com/in/hitendrasinh-solanki-650b11262" target="_blank">
   <img src="https://img.shields.io/badge/LINKEDIN_PROFILE-Hitendrasinh_Solanki-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161B22" />
