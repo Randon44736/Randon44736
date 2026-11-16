@@ -5,7 +5,7 @@
 
 <!-- Dynamic Animated Monochrome Typing Subtitle -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=%E2%96%B6+FULL-STACK+%26+MOBILE+SYSTEMS+ARCHITECT;%E2%96%B6+OPTERA+FLEET+MANAGEMENT+%26+BUSBUDDY+AI+TRACKER;%E2%96%B6+BUILDERA+%E2%80%94+AUTOMATED+CONSTRUCTION+MANAGEMENT+%26+BILLING;%E2%96%B6+CORE%3A+FLUTTER+%E2%80%A2+REACT+%E2%80%A2+NODE+%E2%80%A2+KOTLIN+%E2%80%A2+PYTHON;%E2%96%B6+MCA+DISTINCTION+%5B83.87%25%5D+%E2%80%A2+NATIONAL+ATHLETE" alt="Typing Motion Graphic" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=%E2%96%B6+FULL-STACK+%26+MOBILE+SYSTEMS+ARCHITECT;%E2%96%B6+FLEET+MANAGEMENT+SYSTEM+%26+BUSBUDDY+AI+TRACKER;%E2%96%B6+Buildera+%E2%80%94+Automated+Construction+Management+%26+Billing;%E2%96%B6+CORE%3A+FLUTTER+%E2%80%A2+REACT+%E2%80%A2+NODE+%E2%80%A2+KOTLIN+%E2%80%A2+PYTHON;%E2%96%B6+MCA+DISTINCTION+%5B83.87%25%5D+%E2%80%A2+NATIONAL+ATHLETE" alt="Typing Motion Graphic" />
 </a>
 
 <br/>
@@ -39,12 +39,12 @@
 
 I’m a software engineer and systems architect driven by first-principles thinking: breaking complex, fragmented real-world operations down to their core mechanics, and re-engineering them into fast, resilient, and beautifully designed digital ecosystems.
 
-From real-time telematics in **Optera — Fleet Management System** and live telemetry in **BusBuddy — AI Smart School Bus Tracker**, to autonomous operations in **Buildera — AI-Powered Automated Construction Management & Billing**, I treat code like high-precision machinery — engineered for speed, zero downtime, and seamless user interaction.
+From real-time telematics in the **Fleet Management System** and live telemetry in **BusBuddy — AI Smart School Bus Tracker**, to autonomous operations in **Buildera — AI-Powered Automated Construction Management & Billing**, I treat code like high-precision machinery — engineered for speed, zero downtime, and seamless user interaction.
 
 - 🎓 **Education:** Master of Computer Applications (**MCA**) from JG University (*First Class with Distinction — **83.87%***).
 - 💼 **Professional Experience:** 
   - **Android Developer Intern | Full Stack & Enterprise Engineering** at **VAS Digitek Pvt. Ltd.** (Sept 2025 – August 2026).
-  - Engineered **Optera — Fleet Management System**, building enterprise fleet solutions across Flutter mobile applications (driver operations, attendance, maintenance) and React.js web monitoring platforms with Node.js backend microservices deployed on Linux/Ubuntu.
+  - Engineered the **Fleet Management System**, building enterprise fleet solutions across Flutter mobile applications (driver operations, attendance, maintenance) and React.js web monitoring platforms with Node.js backend microservices deployed on Linux/Ubuntu.
 - 🏅 **Athletic Background:** Selected as an **All India University National Softball Player (2024)** — instilling relentless discipline, split-second problem solving, and composure under pressure.
 
 ---
@@ -152,8 +152,8 @@ From real-time telematics in **Optera — Fleet Management System** and live tel
   <tbody>
     <tr>
       <td>
-        <b>OPTERA</b><br/>
-        <sub>Fleet Management System</sub>
+        <b>Fleet Management System</b><br/>
+        <sub>Enterprise Telematics Suite</sub>
       </td>
       <td>
         • <b>Driver Operations:</b> Flutter mobile app covering vehicle assignment, trip details, attendance, daily operations, and maintenance logs.<br/>
@@ -182,7 +182,7 @@ From real-time telematics in **Optera — Fleet Management System** and live tel
     </tr>
     <tr>
       <td>
-        <b>BUILDERA</b><br/>
+        <b>Buildera</b><br/>
         <sub>AI-Powered Automated Construction Management & Billing</sub>
       </td>
       <td>
